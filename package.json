@@ -1,0 +1,23 @@
+ {
+  "name": "mini-man",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000m\u0000i\u0000n\u0000i\u0000-\u0000m\u0000a\u0000n\u0000\r\u0000 \u0000#\u0000 \u0000m\u0000i\u0000n\u0000i\u0000-\u0000m\u0000a\u0000n\u0000\r\u0000 \u0000T\u0000E\u0000S\u0000T\u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmad-Azeem/mini-man.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahmad-Azeem/mini-man/issues"
+  },
+  "homepage": "https://github.com/Ahmad-Azeem/mini-man#readme",
+  "dependencies": {
+    "mongodb": "^6.15.0"
+  }
+}
